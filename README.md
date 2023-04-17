@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hamza Dehaini
-- 👀 I’m interested infull-dive VR hardware/software
+- 👀 I’m interested in full-dive VR hardware/software
 - 🌱 I’m currently learning programming (python, java, c/c++)
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me: hamzadehaini@gmail.com
